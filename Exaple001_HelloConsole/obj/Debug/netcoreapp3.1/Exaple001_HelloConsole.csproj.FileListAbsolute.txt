@@ -1,0 +1,13 @@
+C:\Users\Каролина\examples\Exaple001_HelloConsole\obj\Debug\netcoreapp3.1\Exaple001_HelloConsole.csprojAssemblyReference.cache
+C:\Users\Каролина\examples\Exaple001_HelloConsole\obj\Debug\netcoreapp3.1\Exaple001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Каролина\examples\Exaple001_HelloConsole\obj\Debug\netcoreapp3.1\Exaple001_HelloConsole.AssemblyInfo.cs
+C:\Users\Каролина\examples\Exaple001_HelloConsole\obj\Debug\netcoreapp3.1\Exaple001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Каролина\examples\Exaple001_HelloConsole\bin\Debug\netcoreapp3.1\Exaple001_HelloConsole.exe
+C:\Users\Каролина\examples\Exaple001_HelloConsole\bin\Debug\netcoreapp3.1\Exaple001_HelloConsole.deps.json
+C:\Users\Каролина\examples\Exaple001_HelloConsole\bin\Debug\netcoreapp3.1\Exaple001_HelloConsole.runtimeconfig.json
+C:\Users\Каролина\examples\Exaple001_HelloConsole\bin\Debug\netcoreapp3.1\Exaple001_HelloConsole.runtimeconfig.dev.json
+C:\Users\Каролина\examples\Exaple001_HelloConsole\bin\Debug\netcoreapp3.1\Exaple001_HelloConsole.dll
+C:\Users\Каролина\examples\Exaple001_HelloConsole\bin\Debug\netcoreapp3.1\Exaple001_HelloConsole.pdb
+C:\Users\Каролина\examples\Exaple001_HelloConsole\obj\Debug\netcoreapp3.1\Exaple001_HelloConsole.dll
+C:\Users\Каролина\examples\Exaple001_HelloConsole\obj\Debug\netcoreapp3.1\Exaple001_HelloConsole.pdb
+C:\Users\Каролина\examples\Exaple001_HelloConsole\obj\Debug\netcoreapp3.1\Exaple001_HelloConsole.genruntimeconfig.cache
