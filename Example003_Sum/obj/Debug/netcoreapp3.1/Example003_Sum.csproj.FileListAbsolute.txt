@@ -1,0 +1,13 @@
+C:\Users\Каролина\examples\Example003_Sum\bin\Debug\netcoreapp3.1\Example003_Sum.exe
+C:\Users\Каролина\examples\Example003_Sum\bin\Debug\netcoreapp3.1\Example003_Sum.deps.json
+C:\Users\Каролина\examples\Example003_Sum\bin\Debug\netcoreapp3.1\Example003_Sum.runtimeconfig.json
+C:\Users\Каролина\examples\Example003_Sum\bin\Debug\netcoreapp3.1\Example003_Sum.runtimeconfig.dev.json
+C:\Users\Каролина\examples\Example003_Sum\bin\Debug\netcoreapp3.1\Example003_Sum.dll
+C:\Users\Каролина\examples\Example003_Sum\bin\Debug\netcoreapp3.1\Example003_Sum.pdb
+C:\Users\Каролина\examples\Example003_Sum\obj\Debug\netcoreapp3.1\Example003_Sum.csprojAssemblyReference.cache
+C:\Users\Каролина\examples\Example003_Sum\obj\Debug\netcoreapp3.1\Example003_Sum.AssemblyInfoInputs.cache
+C:\Users\Каролина\examples\Example003_Sum\obj\Debug\netcoreapp3.1\Example003_Sum.AssemblyInfo.cs
+C:\Users\Каролина\examples\Example003_Sum\obj\Debug\netcoreapp3.1\Example003_Sum.csproj.CoreCompileInputs.cache
+C:\Users\Каролина\examples\Example003_Sum\obj\Debug\netcoreapp3.1\Example003_Sum.dll
+C:\Users\Каролина\examples\Example003_Sum\obj\Debug\netcoreapp3.1\Example003_Sum.pdb
+C:\Users\Каролина\examples\Example003_Sum\obj\Debug\netcoreapp3.1\Example003_Sum.genruntimeconfig.cache
