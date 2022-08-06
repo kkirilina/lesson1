@@ -1,0 +1,13 @@
+C:\Users\Каролина\examples\Example006_Base\bin\Debug\netcoreapp3.1\Example006_Base.exe
+C:\Users\Каролина\examples\Example006_Base\bin\Debug\netcoreapp3.1\Example006_Base.deps.json
+C:\Users\Каролина\examples\Example006_Base\bin\Debug\netcoreapp3.1\Example006_Base.runtimeconfig.json
+C:\Users\Каролина\examples\Example006_Base\bin\Debug\netcoreapp3.1\Example006_Base.runtimeconfig.dev.json
+C:\Users\Каролина\examples\Example006_Base\bin\Debug\netcoreapp3.1\Example006_Base.dll
+C:\Users\Каролина\examples\Example006_Base\bin\Debug\netcoreapp3.1\Example006_Base.pdb
+C:\Users\Каролина\examples\Example006_Base\obj\Debug\netcoreapp3.1\Example006_Base.csprojAssemblyReference.cache
+C:\Users\Каролина\examples\Example006_Base\obj\Debug\netcoreapp3.1\Example006_Base.AssemblyInfoInputs.cache
+C:\Users\Каролина\examples\Example006_Base\obj\Debug\netcoreapp3.1\Example006_Base.AssemblyInfo.cs
+C:\Users\Каролина\examples\Example006_Base\obj\Debug\netcoreapp3.1\Example006_Base.csproj.CoreCompileInputs.cache
+C:\Users\Каролина\examples\Example006_Base\obj\Debug\netcoreapp3.1\Example006_Base.dll
+C:\Users\Каролина\examples\Example006_Base\obj\Debug\netcoreapp3.1\Example006_Base.pdb
+C:\Users\Каролина\examples\Example006_Base\obj\Debug\netcoreapp3.1\Example006_Base.genruntimeconfig.cache
