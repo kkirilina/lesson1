@@ -1,0 +1,13 @@
+C:\Users\Каролина\examples\Example004_Dif\bin\Debug\netcoreapp3.1\Example004_Dif.exe
+C:\Users\Каролина\examples\Example004_Dif\bin\Debug\netcoreapp3.1\Example004_Dif.deps.json
+C:\Users\Каролина\examples\Example004_Dif\bin\Debug\netcoreapp3.1\Example004_Dif.runtimeconfig.json
+C:\Users\Каролина\examples\Example004_Dif\bin\Debug\netcoreapp3.1\Example004_Dif.runtimeconfig.dev.json
+C:\Users\Каролина\examples\Example004_Dif\bin\Debug\netcoreapp3.1\Example004_Dif.dll
+C:\Users\Каролина\examples\Example004_Dif\bin\Debug\netcoreapp3.1\Example004_Dif.pdb
+C:\Users\Каролина\examples\Example004_Dif\obj\Debug\netcoreapp3.1\Example004_Dif.csprojAssemblyReference.cache
+C:\Users\Каролина\examples\Example004_Dif\obj\Debug\netcoreapp3.1\Example004_Dif.AssemblyInfoInputs.cache
+C:\Users\Каролина\examples\Example004_Dif\obj\Debug\netcoreapp3.1\Example004_Dif.AssemblyInfo.cs
+C:\Users\Каролина\examples\Example004_Dif\obj\Debug\netcoreapp3.1\Example004_Dif.csproj.CoreCompileInputs.cache
+C:\Users\Каролина\examples\Example004_Dif\obj\Debug\netcoreapp3.1\Example004_Dif.dll
+C:\Users\Каролина\examples\Example004_Dif\obj\Debug\netcoreapp3.1\Example004_Dif.pdb
+C:\Users\Каролина\examples\Example004_Dif\obj\Debug\netcoreapp3.1\Example004_Dif.genruntimeconfig.cache
