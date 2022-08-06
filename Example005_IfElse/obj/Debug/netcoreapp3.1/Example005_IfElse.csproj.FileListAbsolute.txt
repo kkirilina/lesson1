@@ -1,0 +1,13 @@
+C:\Users\Каролина\examples\Example005_IfElse\obj\Debug\netcoreapp3.1\Example005_IfElse.csprojAssemblyReference.cache
+C:\Users\Каролина\examples\Example005_IfElse\obj\Debug\netcoreapp3.1\Example005_IfElse.AssemblyInfoInputs.cache
+C:\Users\Каролина\examples\Example005_IfElse\obj\Debug\netcoreapp3.1\Example005_IfElse.AssemblyInfo.cs
+C:\Users\Каролина\examples\Example005_IfElse\obj\Debug\netcoreapp3.1\Example005_IfElse.csproj.CoreCompileInputs.cache
+C:\Users\Каролина\examples\Example005_IfElse\bin\Debug\netcoreapp3.1\Example005_IfElse.exe
+C:\Users\Каролина\examples\Example005_IfElse\bin\Debug\netcoreapp3.1\Example005_IfElse.deps.json
+C:\Users\Каролина\examples\Example005_IfElse\bin\Debug\netcoreapp3.1\Example005_IfElse.runtimeconfig.json
+C:\Users\Каролина\examples\Example005_IfElse\bin\Debug\netcoreapp3.1\Example005_IfElse.runtimeconfig.dev.json
+C:\Users\Каролина\examples\Example005_IfElse\bin\Debug\netcoreapp3.1\Example005_IfElse.dll
+C:\Users\Каролина\examples\Example005_IfElse\bin\Debug\netcoreapp3.1\Example005_IfElse.pdb
+C:\Users\Каролина\examples\Example005_IfElse\obj\Debug\netcoreapp3.1\Example005_IfElse.dll
+C:\Users\Каролина\examples\Example005_IfElse\obj\Debug\netcoreapp3.1\Example005_IfElse.pdb
+C:\Users\Каролина\examples\Example005_IfElse\obj\Debug\netcoreapp3.1\Example005_IfElse.genruntimeconfig.cache
